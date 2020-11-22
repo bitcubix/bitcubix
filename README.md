@@ -14,6 +14,7 @@ Languages and Frameworks:<br>
 
 <p align="center">
 <samp>Social Networks:<br>
+<code><a href="mailto:bitcubix@protonmail.ch"><img src="https://www.flaticon.com/svg/static/icons/svg/552/552486.svg" width="22" /></a></code>
 <code><a href="https://github.com/bitcubix"><img src="https://image.flaticon.com/icons/svg/25/25231.svg" width="22" /></a></code>
 <code><a href="https://twitter.com/bitcubix"><img src="https://image.flaticon.com/icons/svg/145/145812.svg" width="22" /></a></code>
 <code><a href="https://discord.com/users/469435643991293974"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg" width="22" /></a></code>
