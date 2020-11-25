@@ -1,5 +1,5 @@
 <p align="center">
-  <samp>Hello World. I'm <a href="https://bitcubix.tk">bitcubix</a>.<br>
+  <samp>Hello World. I'm <a href="https://bitcubix.io">bitcubix</a>.<br>
 Languages and Frameworks:<br>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/2000px-Archlinux-icon-crystal-64.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
