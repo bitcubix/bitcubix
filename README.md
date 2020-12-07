@@ -19,6 +19,7 @@ Languages and Frameworks:<br>
 <samp>Social Networks:<br>
 <code><a href="mailto:bitcubix@protonmail.ch"><img src="https://www.flaticon.com/svg/static/icons/svg/552/552486.svg" width="22" /></a></code>
 <code><a href="https://github.com/bitcubix"><img src="https://image.flaticon.com/icons/svg/25/25231.svg" width="22" /></a></code>
+<code><a href="https://dev.to/bitcubix"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="bitcubix's DEV Profile" width="22"></a></code>
 <code><a href="https://twitter.com/bitcubix"><img src="https://image.flaticon.com/icons/svg/145/145812.svg" width="22" /></a></code>
 <code><a href="https://discord.com/users/469435643991293974"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg" width="22" /></a></code>
 </p>
